@@ -17,17 +17,19 @@ Explaining datasets
   Path_Ingram
   smartphone2018
 
-  #-----------------------------
-  KR_authority           #김O
-  KR_senior_center       #O렬
-  YS_authority           #이OO
-  YS_commitment          #O석O
-  YS_jobsatisfaction     #이OO
-  YS_jobsatisfaction2    #이OO
+  # -----------------------------
+  KR_authority           #김렬
+  KR_senior_center       
+
+  # -----------------------------
+  YS_authority           #이석환
+  YS_commitment          
+  YS_jobsatisfaction     
+  YS_jobsatisfaction2    
 
   #-----------------------------
-  base                   #이O민
-  basic                  #이석O
+  base                   #이석민
+  basic                  
   con_moderator1
   con_moderator2
   fat
@@ -43,4 +45,18 @@ Explaining datasets
   mroz
   psm_sem
 
+  # -----------------------------
+  ch10                   #김계수
+  ch3
+  ch31
+  ch4
+  ch9
+  ch9_1
+  data
+  education
+  education_100
+  ex10
+  ex31
+  ex42
+  exdata
 }
