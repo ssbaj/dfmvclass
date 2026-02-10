@@ -22,10 +22,10 @@ Explaining datasets
   KR_senior_center       
 
   # -----------------------------
-  YS_authority           #이석환
-  YS_commitment          
-  YS_jobsatisfaction     
-  YS_jobsatisfaction2    
+  L_authority           #이석환
+  L_commitment          
+  L_jobsatisfaction     
+  L_jobsatisfaction2    
 
   #-----------------------------
   base                   #이석민
